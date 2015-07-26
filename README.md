@@ -1,2 +1,3 @@
 # piyush.domain
-Repo that comprise of some cool programs - cool programming
+New To git 
+Repository that comprise of some cool programs - Happy Programming!!
