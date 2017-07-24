@@ -1,1 +1,2 @@
 This is the test file for checking the git commands and git features.
+This is the master branch
