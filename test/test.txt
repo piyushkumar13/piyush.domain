@@ -1,3 +1,7 @@
 This is the test file for checking the git commands and git features.
+<<<<<<< HEAD
 
 I am adding feature branch
+=======
+This is the master branch
+>>>>>>> master
